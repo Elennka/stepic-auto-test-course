@@ -1,3 +1,2 @@
 # stepic-auto-test-course
-Home work
-My Home Work1ллsd
+Домашние задания по курсу "Автоматизация тестирования с помощью Selenium и Python"
