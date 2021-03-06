@@ -1,0 +1,31 @@
+{
+   "tests" :   [
+     {
+       "email" :   "test@yandex.ru" ,
+       "password" :   "123456"
+     } ,
+ 
+     {
+       "email" :   "Саша" ,
+       "password" :   "6000"
+     } ,
+ 
+     {
+       "email" :   "Петя" ,
+       "password" :   "9000"
+ 
+     } ,
+ 
+     {
+       "email" :   "Даша" ,
+       "password" :   "10000"
+ 
+     },
+ 
+     {
+       "email" :   "Маша" ,
+       "password" :   "11000"
+ 
+     }
+   ]
+ }
